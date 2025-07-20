@@ -354,7 +354,6 @@ Peakly
                 <span className="text-sm text-gray-500">Today&apos;s Prediction</span>
               </div>
             </div>
-            <div id="energy-chart" className="w-full h-32 flex items-end justify-between px-2"></div>
           </div>
 
           {/* Comparison Chart */}
