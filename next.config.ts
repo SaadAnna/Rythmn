@@ -3,7 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   compress: true,
   experimental: {
-    optimizeCss: true,
+    // Remove or comment out optimizeCss for now
+    // optimizeCss: true,
     scrollRestoration: true,
   },
 }
